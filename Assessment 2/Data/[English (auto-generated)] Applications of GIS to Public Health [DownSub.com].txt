@@ -1,0 +1,2182 @@
+hi my name is tim mulrooney i'm speaking
+
+on behalf of rakesh mahultra
+
+and the department of vermont earth and
+
+geospatial sciences to talk about the
+
+applications of geographic information
+
+systems in public health
+
+and how we can use maps and gis to make
+
+informed
+
+and data-driven decisions a lot of times
+
+when we talk about
+
+geography a lot of people associate
+
+geography with something like this
+
+something a question that you'd see
+
+on a show like jeopardy however to us
+
+and to geographers
+
+geography is the study of where biology
+
+is the study of life
+
+sociology is the study of social groups
+
+geography is the study of where
+
+and so geography has a common theme that
+
+involves a spatial extent
+
+and geographers are interested in the
+
+way and perhaps the why that
+
+things and phenomena are laid out and
+
+organized
+
+on the surface of the earth and we
+
+measure that
+
+you can see an example here with cancer
+
+in north carolina
+
+and we can see where cancer rates are
+
+going to be higher
+
+where they're going to be lower now this
+
+isn't a random phenomena
+
+if we were to look at this and see some
+
+type of checkered board pattern we would
+
+see
+
+you know we could show that's random and
+
+that's pretty much a geographer's worst
+
+enemy
+
+but we can look at this and see and
+
+explain perhaps some of the whys and the
+
+where's whether it's access to health
+
+care
+
+environmental factors socioeconomics
+
+that play into these patterns
+
+you can see another example here this is
+
+covered 19 incidence rates at the county
+
+level and this is
+
+early april and so we can see these
+
+patterns to see perhaps where outbreaks
+
+occurred but you can definitely see
+
+where there's high covet incidence rate
+
+surrounded by other high
+
+covet incidence rates and low covet
+
+incidence rates surrounded by other
+
+low covet incidence rates so when we
+
+talk about geography
+
+it means a number of different things
+
+and like i alluded to before
+
+most people associate it with memorizing
+
+countries and capitals
+
+we're learning about different places of
+
+the world and this is typically what we
+
+call
+
+qualitative geography but as we evolve
+
+to more quantitative geography we
+
+actually make
+
+maps and visual products that people can
+
+look at or carry around on their phones
+
+doing gis and spatial analysis and
+
+analyzing geographic data and making
+
+decisions about it which is extremely
+
+important
+
+a lot of times when i give presentations
+
+i ask people
+
+how many of you have used gis typically
+
+i don't get a lot of hands
+
+until i start showing the different
+
+examples here's an example of a running
+
+application that i had on my phone
+
+this is something this is these are
+
+directions that i've used
+
+here i've also just typed in looking for
+
+the banks near me
+
+here here's a weather station that we
+
+have near campus
+
+these are weather maps that we typically
+
+see
+
+here in alamance county i'm looking up a
+
+parcel
+
+and see who owns it and how much it's
+
+worth and the parcel id
+
+here now these days i carry around
+
+a small gps on my wrist and that tracks
+
+where i run and the race that i run and
+
+even biometrics about my heart rate
+
+and then i can go to the i can go to the
+
+look for sex offenders so look for the
+
+sex offender sex offender registry and
+
+look up sex offenders that live near my
+
+house
+
+which is geography or i can look at the
+
+school attendance zones
+
+for my kids school district and so these
+
+are all different applications
+
+of gis so when we talk about gis it's
+
+the computer
+
+the software the hardware the data the
+
+personnel to manipulate analyze present
+
+information that's tied to spatial
+
+location that facilitate
+
+data-driven decisions now gis isn't a
+
+gps
+
+gps is a part of gis it's not as typical
+
+software packages there's a number of
+
+different software packages out there
+
+but nccu has access to a unc license for
+
+a software package called esri arcgis
+
+and arcmap
+
+and it's definitely not a static map
+
+because the second you print out that
+
+static map
+
+it becomes obsolete so these days we
+
+have cloud driven services which
+
+update data on the fly and these maps
+
+that you carry around in your pocket
+
+are always being continuously being
+
+updated
+
+so like we talked about hardware and
+
+software a really small
+
+part part of it so people and the data
+
+in which we make decisions are extremely
+
+important and the procedures which are
+
+always evolving
+
+so when we look at the cost of a gis
+
+over a year a
+
+computer a desktop computer that can
+
+handle gis
+
+may go anywhere from 800 to a couple
+
+thousand dollars the software some of
+
+which is free
+
+up to a few thousand dollars but a gis
+
+analyst your average gis analyst will
+
+make 50 to 60 000
+
+a year starting out your technicians
+
+might make a little bit more
+
+as you evolve up into gis specialists
+
+and programmers and managers
+
+which make definitely more than that so
+
+when we model the actual world we talk
+
+about
+
+gis data we model it using points
+
+lines and polygons now we've all heard
+
+of these before from math class or
+
+geometry class
+
+now instead of calling those locations x
+
+and y
+
+along the axes we call them latitude and
+
+longitude and that's how they're located
+
+so we can measure this using latitudes
+
+and longitudes that substitute for
+
+x and y which have real world locations
+
+so all these points lines and polygons
+
+have real world locations
+
+and points are dimensionless lines are
+
+one dimension and then polygons have two
+
+dimensions meaning
+
+they have area and they have perimeter
+
+so when we model the health portal if we
+
+have something like points this might be
+
+an example like a fatality
+
+an accident a patient or store
+
+a line might be a road or a stream or a
+
+railroad
+
+maybe we're looking at proximity and
+
+polygons could be a lot of things but
+
+polygons
+
+could be what we call enumeration units
+
+where we look at states
+
+or counties or zip codes or census
+
+divisions and within them
+
+we might count the number of incidences
+
+or fatalities
+
+or populations so that we can measure
+
+these and i'll be showing examples of
+
+those
+
+when i show real world gis we also have
+
+something called the raster data model
+
+which is
+
+mosaics of thousands thousands of tiny
+
+pixels that represent 2d
+
+arrays of equally spaced cells it's
+
+typically used to model continuous data
+
+such as density
+
+over space as opposed to individual
+
+units so you might see the location of
+
+you know every single patient right here
+
+which we may or may not be allowed to
+
+use but we can make these types of
+
+heat maps to see where these
+
+concentration or densities of them are
+
+higher
+
+and lower and so when we look at data
+
+versus points versus polygons we can
+
+group these using some simple gis
+
+techniques here's an example of a
+
+student project that we did a few years
+
+ago where
+
+a student wanted to map all premature
+
+heart disease deaths
+
+in durham county look for a relationship
+
+between fast food or something
+
+but we received data from the north
+
+carolina state statistician at the north
+
+carolina department for health
+
+statistics
+
+and we get a map that looks like this
+
+and to a lot of people
+
+it just looks like a bunch of dots to be
+
+honest with you and we could see
+
+where you know they're more concentrated
+
+and where they're less concentrated but
+
+obviously where they're less
+
+concentrated highlights
+
+you know less densely populated areas so
+
+we can group these by say
+
+census block group or census tract and
+
+normalize these
+
+so we can make a map that looks like
+
+this where we can look at the
+
+number of incidences divided by the
+
+number of people and look for some type
+
+of rate and normalize these
+
+and that's getting there so we can turn
+
+a map that looks like this into a map
+
+that looks like
+
+this now there's some other caveats here
+
+here's an example that i've been shown
+
+in my classes for a while
+
+when we apply this to the health
+
+sciences well this is a map of female
+
+age-graded cancer mortality rates now i
+
+just showed an example of rates
+
+but when we talk about you know we know
+
+what female is but
+
+age grading is really important a lot of
+
+times when we look at cancer mortality
+
+rates or any type of rate or mortality
+
+rate
+
+needs to be age graded typically because
+
+what states are going to have the
+
+highest mortality rates it's going to be
+
+where the older populations are
+
+so like west virginia and florida and
+
+arizona where
+
+older populations live so essentially if
+
+you're mapping
+
+mortality rates you're just mapping
+
+where the older people live so
+
+we do a technique called age grading
+
+which standardizes or normalizes the
+
+average age for each county to be the
+
+same and so now when we look at female
+
+age-graded cancer mortality rates you
+
+can see where they're high in the
+
+northeast they're extremely high
+
+the high is in shannon county south
+
+dakota and we talk about some of the
+
+whys behind this
+
+i like to talk to people is that i'm the
+
+gis geek who
+
+essentially i can make the maps and
+
+develop the spatial data infrastructure
+
+to make those happen but
+
+it's a little bit harder to figure out
+
+the why so we rely on maybe sociologists
+
+or biologists or public health
+
+professionals
+
+to figure out the why behind some of
+
+these patterns and i thought it was
+
+interesting the high was in shannon
+
+county south
+
+dakota and about seven about eight years
+
+ago
+
+in 2012 there was a really interesting
+
+national geographic article on the
+
+spirit of crazy horse
+
+uh the rebirth of the sioux nation and i
+
+was looking at some of the statistics
+
+where i saw
+
+you know annual per capita income
+
+poverty rates which were really high
+
+um cirrhosis of the liver rates and
+
+cancer mortality rates which were
+
+many times higher than the average for
+
+the united states i thought this was
+
+really interesting and
+
+in how some of these statistics kind of
+
+play into this
+
+and can affect these and you can see the
+
+poverty rate is almost four times higher
+
+that
+
+than that for the entire united states
+
+and so
+
+is a lot of times we we see some of this
+
+rural blight as well
+
+these are the rates for male age-graded
+
+cancer mortality rates
+
+which highlight and articulate different
+
+patterns where red are the highest rates
+
+greens are the lowest rates
+
+so you can see they're still relatively
+
+high in the northeast but you can see
+
+some of the other patterns along the
+
+mississippi river along the coal belt
+
+right here
+
+here's an example of a student project
+
+where we
+
+we looked at patterns of dui fatalities
+
+across the united states and
+
+we really wanted to articulate the idea
+
+of normalization where that
+
+okay california texas and florida are
+
+going to have high numbers of dui
+
+fatalities
+
+so we normalize these we look at the
+
+number of dui
+
+deaths per 100 000 people and when we
+
+did that we saw that
+
+wyoming was extremely high was about one
+
+and a half times higher
+
+than any other state we kind of had a
+
+couple of hot spots right here
+
+here in the upper you know mountain
+
+region and then in the deep south
+
+and then you can see maybe some of the
+
+religious region reasons might
+
+why they might be low or we're looking
+
+over here at utah and then what are some
+
+of the other reasons why they're high
+
+so i thought this was extremely
+
+interesting map that really articulates
+
+the idea and the need
+
+for normalization as applies to public
+
+health
+
+and then we can look at things within
+
+the environmental sciences
+
+where we look at air quality and maybe
+
+tie these to public health so we look at
+
+you know asthma rates or things like
+
+that so there's a lot of great
+
+interesting data out there part of my
+
+personal specialty has been food
+
+accessibility
+
+and a lot of times low-income
+
+neighborhoods suffer from the brunt of
+
+diseases like diabetes and heart disease
+
+and stroke
+
+and so the usda has devised the term
+
+food desert in an area that's
+
+one more than one mile from a
+
+supermarket and urban area more than 10
+
+miles from a supermarket in rural area
+
+and has a poverty component attached and
+
+we see examples of these all the time i
+
+live over in
+
+in guilford county and on my way to work
+
+i typically see a sign that looks like
+
+this
+
+bring a grocer to gibsonville small
+
+community kind of tucked between
+
+alamance
+
+and and guilford county
+
+but when we look at supermarket
+
+accessibility like i said before this
+
+can be measured across
+
+space and place and we can see areas
+
+in the darkest have the largest distance
+
+to a supermarket and you can see
+
+it's right near the nccu campus so these
+
+are about 67
+
+census block groups in central durham
+
+which was our study area and then
+
+i combine all of these and i look at i
+
+can look at my food desert and so we can
+
+actually go
+
+and use census data to approximate the
+
+number of people
+
+that live within this food desert
+
+and we can make proposals to say if we
+
+were to put
+
+a couple of if we were to put a
+
+supermarket in this location just north
+
+of 147
+
+or this location north of 147 we would
+
+maximize the number of people
+
+who don't live in a food desert anymore
+
+and you see articles to this effect all
+
+the time
+
+and so one of the things that we did is
+
+we did this analysis and we said
+
+okay we could put a story here put a
+
+store here but
+
+right up here what do we see these days
+
+you're driving in
+
+allston street and you see a save a lot
+
+so these people use this analysis
+
+and when i get to the end and talk about
+
+jobs the biggest applications of gis
+
+these days are
+
+retail and business geography and health
+
+geography
+
+another thing that we look at is
+
+convenience store accessibility so we
+
+looked at the same analysis
+
+and you can see these darker areas have
+
+higher distance to a
+
+convenience store these lighter lighter
+
+areas have a lower distance to a
+
+convenience store
+
+and we can make a scatter plot map where
+
+we map just
+
+income versus distance to a convenience
+
+store and we can use statistical methods
+
+to basically talk talk about something
+
+called a line of best fit
+
+and a p score to see what are the
+
+chances that if i were to throw 70
+
+points
+
+up onto this map we would see this
+
+pattern
+
+and the chances are literally zero and
+
+then i can draw something called the
+
+line of best fit where that i see that
+
+as income increases the distance from a
+
+convenience store
+
+also increases and so you can see
+
+these convenience stores are typically
+
+located around
+
+low income areas and not all the time
+
+but our pattern shows that by this
+
+line of best fit and so we have the
+
+slope of the line
+
+and then we have something called a r
+
+squared value that tells you
+
+how close these points are from this
+
+line and these are called residuals
+
+so as we get into health mapping and gis
+
+it's important that
+
+you're good at statistics and then the
+
+gis behind it
+
+now when we try to tie the two together
+
+and this is a project that i've been
+
+personally involved with
+
+with mapping mapping food deserts and
+
+coveted incidents
+
+and this is a map as of halloween
+
+and we can see a map here of covet
+
+incidence rates
+
+at the zip code level and i downloaded
+
+these from the north carolina cova
+
+dashboard
+
+brought them into a gis you can just
+
+download tables bring those into gis
+
+that we work with and we can run
+
+statistics on those
+
+and then we can link and join them to
+
+points lines and polygons and in this
+
+case polygon is using a key
+
+called the zip code that's common in
+
+both of these but you can see where
+
+they're really high and where they're
+
+really low
+
+and so these darkest areas have the
+
+highest covered rates
+
+the lightest areas have the lowest
+
+covered rates
+
+and i superimpose these with food
+
+deserts so these aforementioned food
+
+deserts that we've talked about this is
+
+data that we got from the usda at the
+
+tract level
+
+and so these red areas these red patched
+
+areas
+
+highlight food deserts and i've been
+
+working with a team
+
+and we wanted to see if there was a
+
+relationship between these
+
+and so we took covet incidence rates
+
+at different dates and we looked at the
+
+difference between food deserts and
+
+non-food deserts
+
+and our last uh our last collection date
+
+of halloween to
+
+2020 the covered rates and food deserts
+
+were 265 versus 230.
+
+and we did some independent tests of two
+
+mains and we saw that this was
+
+statistically different it was
+
+statistically different these were
+
+different enough for that we can
+
+make some assumptions about the data
+
+that we couldn't if it was
+
+265 versus 264 or something like that
+
+so we can look at these differences that
+
+highlight statistical significance
+
+between the data
+
+okay and so some of the things that we
+
+want to do is maybe figure out
+
+why what's going on in these high covet
+
+areas
+
+that
+
+that have compromised food security
+
+security or vice versa so it's really
+
+interesting and
+
+try to figure out the why behind these
+
+the other thing we can do is
+
+run cluster statistics because we can
+
+see that they're dark here
+
+but we run clustering with statistical
+
+significance to look for hot spots hot
+
+spots are
+
+high covered rates surrounded by other
+
+high covered rates
+
+versus low covert rates surrounded by
+
+other low covered rates
+
+and i thought it was interesting because
+
+we got this big hot spot that runs in
+
+this u pattern
+
+kind of around moore county around
+
+harnett county around
+
+fort bragg and we got another hot spot
+
+here
+
+over here in charlotte and we can look
+
+at changes in hot spots as well
+
+and this is a map that i've created when
+
+we look at the change in the hot spots
+
+between july 6 which was one of our
+
+collection dates
+
+and september 30th and so you can see
+
+where these hot spots this
+
+you know emergence of this u pattern
+
+occurs and this darkest red basically
+
+shows
+
+where new hot spots have popped up in
+
+september
+
+and these pink were the hot spots that
+
+were still occurred
+
+in july and you can you know most
+
+probably scary is
+
+where we have the new hot spots popping
+
+up but it's also interesting when we
+
+have cold spots popping up so you can
+
+see the spatial relationship and like i
+
+said before
+
+we don't have any checkerboard patterns
+
+here we have things called spatial
+
+outliers
+
+where we see this new hot spot here or a
+
+new cold spot there so what are they
+
+doing whether with regard to testing or
+
+local ordinances or whatever to
+
+facilitate
+
+and perpetuate these patterns and then
+
+we can compare these to
+
+things like long-term health outcomes
+
+like diabetes i'm going to talk about
+
+this in a little bit
+
+but i thought it was interesting when we
+
+had you know low diabetes death rate
+
+here but high covid because
+
+we've uh submitted a paper and some of
+
+the people asked us to look at that and
+
+we really wanted to try to tie that in
+
+now
+
+like i was saying before you've got gis
+
+specific data but we
+
+typically data is going to come in you
+
+know flat files or what we call in gis
+
+standalone files standalone tables which
+
+aren't linked to point line and polygons
+
+and sometimes
+
+health outcomes have an icd code
+
+attached to them and if i go to the
+
+north carolina vital statistics database
+
+i can download a big table that looks
+
+like this
+
+and i can download from the north
+
+carolina vital statistics database
+
+a list of literally everyone who's died
+
+by year
+
+and for 2010 i might have about a
+
+hundred thousand people who
+
+died and it's really interesting because
+
+you can see up at the top here we have
+
+attributes okay so the day the month
+
+the day the year the sex the race how
+
+old they were the cause
+
+the zip code they occurred in so if i
+
+have a zip code i can map it i know what
+
+a zip code looks like it's going to be a
+
+polygon i don't know where exactly in
+
+that zip code that person died
+
+but i can map that like i've done
+
+previously
+
+and so i can pick out some icd codes
+
+that might are
+
+most likely affected by unhealthy eating
+
+habits like
+
+uh acute myocardial infarction chronic
+
+hystamic heart disease
+
+and these are just some of these health
+
+outcomes that might be infected by
+
+but might be impacted by unhealthy
+
+eating habits
+
+and so i can get a big table of these of
+
+everyone who died
+
+of just of these particular causes
+
+and i can download these query these
+
+group these at the zip code
+
+and then i can join these two points
+
+lines and polygons so they're part of my
+
+attribute table that can be mapped
+
+and then i can age grade these so i can
+
+make an
+
+age-graded map of these types of deaths
+
+here
+
+and i can see where they're high and
+
+where they're low
+
+before i age graded moore county had
+
+really high death rates because
+
+it's typically an older population there
+
+in moore county
+
+but when i age grade these you can see
+
+these patterns that
+
+kind of pop up here in scotland and
+
+richmond county as well
+
+just from these particular deaths so i
+
+can turn these tabular files
+
+just lists of people who died into gis
+
+maps fairly easily the other thing that
+
+i've been doing is
+
+looking at food deserts but also food
+
+swamps
+
+because people who live in food deserts
+
+well that might not be that big of a
+
+deal if you live in a rural area i used
+
+to live in an area that was 15 minutes
+
+from
+
+you know the nearest supermarket and
+
+well
+
+lived in a desert but it wasn't a big
+
+deal because i had to drive far
+
+either way to get to food but a food
+
+swamp are going to be areas which have
+
+relatively large amounts of energy dense
+
+you know snack foods
+
+unhealthy food options and so some
+
+recent research has talked about the
+
+over availability as unhealthy food
+
+options
+
+better explained to spirit health
+
+outcomes than just the lack of healthy
+
+food auction
+
+outcomes and i mapped a couple of food
+
+swamps here
+
+in southeastern north carolina in
+
+robeson
+
+cumberland sampson and bladen county i'm
+
+after at the pixel level remember what
+
+pixels were
+
+doing really fine scale analysis then
+
+i'm at them at the block group level and
+
+so you can see these pixels in red
+
+which kind of we brought out but
+
+you can also see these block groups now
+
+block groups are a little bit better
+
+because i have explanatory data
+
+such as income race ethnicity
+
+access to vehicles that are collected
+
+from the census
+
+i don't have the number of people who
+
+live in this
+
+exact area right here at the pixel level
+
+because data aren't collected at that
+
+scale
+
+so there's advantages to this more
+
+coarse data than this finer scale data
+
+and i can count the number of people
+
+that live in this food swamp
+
+and i can start to make some comparisons
+
+so in even in rural food swamps i can
+
+see the percent minority residents
+
+is much much higher in the rural food
+
+swamps
+
+than the best values
+
+i can see the percentage of people
+
+receiving public assistance
+
+and food stamps was much higher and this
+
+is all
+
+information whether it's population
+
+density average household size
+
+poverty components people who vehicles
+
+these are all this is all information
+
+that we can get from the census or
+
+readily available data sources
+
+spending on fruits and vegetables
+
+so to be power to be successful with gis
+
+geography gis earth sciences are growing
+
+fields
+
+and in and with itself geographic
+
+information systems is a powerful
+
+technical skill that you can set you
+
+apart from other applicants
+
+no matter your field so we've had
+
+history education
+
+social work students take our classes
+
+they become used to and comfortable with
+
+working with data in all forms
+
+so to be successful you need an
+
+interested in your particular
+
+skill set and we've done a lot of
+
+application with health mapping
+
+political geography
+
+geology earthquakes lots of different
+
+things out there that we can
+
+map and students have mapped as well
+
+principles of public health and
+
+geography you've got to be
+
+good with computers and managing and
+
+understanding all forms of data and how
+
+these data come about
+
+and then things like math like
+
+percentages and calculations
+
+conversions of units and things like
+
+that so we can age grade and look at
+
+percentages and
+
+be able to make data that makes sense to
+
+us
+
+some other ancillary needs when it comes
+
+to gis problem solving skills
+
+you know writing public speaking maybe a
+
+little bit of computer programming if
+
+you've taken it before
+
+but some of the what i talk about you
+
+know soft skills being able to get along
+
+with others working in teams
+
+group projects things like that because
+
+typically in the workforce you'll be
+
+part of a team that's going to need to
+
+get along with others
+
+but when we talk about careers in gis
+
+there's tons of them demographer working
+
+with data
+
+environmental hazard specialist
+
+environmental scientist a cartographer
+
+someone who makes maps
+
+a gis specialist a transport planner but
+
+like i said before
+
+two of the fastest growing fields are
+
+medical geographer and retail geographer
+
+where are we going to build the next
+
+mcdonald's or where we're going to build
+
+next home depot
+
+what are the patterns of covert rates
+
+these
+
+days and we've seen medical and
+
+geography really hop to the forefront
+
+of gis in terms of their visibility in
+
+the news and media
+
+as well as pay and i've got a couple
+
+examples here of just some gis
+
+jobs and i'll talk about these with with
+
+a public health education slant
+
+but this is a gis analyst and this is if
+
+you look closely enough
+
+this is the people who update the
+
+parcels in this particular county
+
+in flagstaff arizona and so
+
+when you go to uh go to guilford county
+
+or go to durham county
+
+gis website you can look up the parcels
+
+and the parcels you know the actual
+
+parcel that you live on
+
+is maintained on a regular basis we can
+
+download these from the north carolina
+
+one map website and bring these in
+
+make the decisions about these but these
+
+are updated by gis technicians and you
+
+can see the pay
+
+you know forty three to fifty two
+
+thousand dollars to start
+
+here's another one this is a crime
+
+analyst
+
+and you can see here bachelor's degree
+
+required extract working with gis
+
+data arcgis okay
+
+relational databases and queries and
+
+this is in
+
+manassas police station virginia and you
+
+can see the pay for that
+
+now as applied to public health here are
+
+just a couple of them
+
+that i've extracted recently from indeed
+
+this is an outreach coordinator i
+
+thought this was pretty neat
+
+for blue ridge health but you can see
+
+gis cloud mapping and
+
+maybe i alluded to before typically gis
+
+is moving more towards cloud because you
+
+can access the data at any point in time
+
+there's some trade-offs to that and i'll
+
+talk about those when we look at our
+
+a cloud-based application of gis but you
+
+can see
+
+an outreach coordinator they want them
+
+proficient in gis cloud mapping
+
+here's an interesting one i believe this
+
+is in west virginia a gis disaster
+
+recovery instruct
+
+a coordinator provides analysis and gis
+
+mapping resources for repair
+
+preparedness mitigation recovery related
+
+to the coven 19 pandemic
+
+and i thought this was interesting this
+
+is a vaccine data specialist with the
+
+texas department
+
+of state health statistics and so you
+
+can see all of the gis
+
+and data related skills that are
+
+required of it
+
+and you can see the pay for this is a
+
+pretty good pay
+
+now our particular degree is in
+
+environmental and geographic sciences
+
+offered through the department of
+
+mental earth and geospatial sciences
+
+but there's a number of jaw there's a
+
+number of classes here that would be
+
+related to your major
+
+gis 2020 which is an introduction to gis
+
+for non-stem majors geography 3435 which
+
+is geographic information systems where
+
+we
+
+introduce uh students using web-based
+
+and the software applications the
+
+software application's a little bit more
+
+robust
+
+so for people who want to use gis in
+
+their work and research
+
+then we have geography 4010 which is
+
+applied gis which focuses on the
+
+development creation of data
+
+on both computers in the cloud and then
+
+we have geospatial statistics that focus
+
+on the management of data
+
+and application of statistical methods
+
+to geographic data
+
+and so in geography 3435 and 4010
+
+you'd probably be able to make a map
+
+like this
+
+when we look at geospatial statistics we
+
+understand the concepts that
+
+make this so we talk about what's the
+
+definition of a neighborhood what's a
+
+cluster
+
+we typically let the computer handle
+
+these but how we interpret these
+
+we also have a nga certification this is
+
+the national geospatial intelligence
+
+agency
+
+certified program that helped fast-track
+
+to careers in the intelligence field
+
+so north carolina central is one of
+
+about 17 or 18
+
+ngi nga certified programs across the
+
+united states
+
+and we have two nga certified
+
+instructors and so when we talk about
+
+well how does geospatial intelligence
+
+relate to health and i thought this was
+
+a pretty neat example how we use geo
+
+intelligence to access for health and
+
+humanitarian work in the global south a
+
+lot of times we hear the term
+
+climate refugees so people who are
+
+leaving
+
+one place to go to another place and how
+
+that changed the dynamics of these areas
+
+also health refugees
+
+some of the success stories that we've
+
+had recently include
+
+this is a richard mata murray he did
+
+work on food deserts and food access in
+
+southeastern north carolina and he
+
+interned at esri charlotte
+
+esri is the people who make our gis
+
+software but he now works as a business
+
+and market strategy analyst for lowe's
+
+down in charlotte uh hiley she graduated
+
+for bs in environmental science
+
+she interned at nascar and ups in
+
+sustainability and
+
+she works out in hawaii in the office of
+
+sustainability
+
+and climate change in honolulu hawaii
+
+so here are a couple of gis resources
+
+we've got a youtube page
+
+we you know introduce tutorials that i
+
+utilize in my classes
+
+was as well as some of our happenings
+
+that we have when we talk about gis for
+
+the health science first of all we need
+
+to remember
+
+everything spatial in nature all
+
+phenomena exhibit some pattern
+
+at different scales at the county scale
+
+or zip code scale or national scale
+
+and that quantitative data and analysis
+
+through statistics and spatial
+
+statistics
+
+is important in determining patterns and
+
+correlations
+
+and then we want to see if patterns have
+
+a unifying theme whether it's a school
+
+ascending district is it near extreme
+
+air quality as well as other indicators
+
+because there's a lot of reasons why
+
+these patterns occur
+
+now this is my information here
+
+feel free to reach out to me if you have
+
+any questions but what i did want to
+
+show
+
+is just a couple of applications of gis
+
+data and i have some gis data here in
+
+the cloud
+
+this is an application that we made
+
+using something called arcgis online
+
+and this is these coven maps that i
+
+showed before
+
+at the at the zip code level
+
+and i can click on this little button
+
+here and all of these data are stored
+
+in the cloud okay so they're stored in
+
+the cloud so they're
+
+not sitting on my computer right now so
+
+i can check and uncheck these and
+
+i can move these around that i've added
+
+these things called widgets
+
+okay so that i can measure distances
+
+right here
+
+but when we actually look at the nature
+
+of gis
+
+data i can click on these census tracts
+
+and
+
+i can click on these zip codes okay and
+
+there's something called an attribute
+
+table so when i look at these
+
+this is the actual attributes that
+
+run the points lines and polygons
+
+and so since it's stored in the cloud it
+
+takes a little bit longer
+
+to render here but i've got the name of
+
+my zip code the population
+
+covered rates the median household
+
+income and these are
+
+these have been some data that i've been
+
+collecting as part of a project
+
+whether it's in a usda food desert some
+
+of the food environment indicators
+
+but some of the interesting things here
+
+is that these points lines and polygons
+
+in this case
+
+polygons are linked to
+
+spatial features so i clicked on belmont
+
+right here
+
+and then you can see that it's
+
+highlighted in the map
+
+okay and this is truly which
+
+differentiates
+
+gis data from your truly statistical
+
+analysis and so this is an example of it
+
+you know how it's stored in the cloud
+
+how it's
+
+stored in the cloud these are web
+
+mapping applications using something
+
+called
+
+arcgis online that i can display
+
+i can run things called filters and do a
+
+number of different things here to
+
+render these
+
+now the other types of data that i have
+
+here other types of application are
+
+desktop applications
+
+a little bit more robust because the
+
+data is sitting on your computer
+
+sitting on a server that's a little more
+
+easily accessible
+
+so data sitting on the cloud is a little
+
+bit harder to access because it's in the
+
+cloud it takes a little bit longer to
+
+render
+
+but you can see applications that i have
+
+here now this is called
+
+arcmap and there's a new application
+
+coming out called arcgis pro they're the
+
+exact same thing over in the left here
+
+they have have a table of contents that
+
+i can check and uncheck things
+
+and i have these maps the thing about
+
+arcgis pro is that it's evolving and
+
+it's got that ribbon
+
+it has this ribbon that we're getting
+
+used to with your typical office
+
+application so arcgis and the people who
+
+make arcgis
+
+are moving in that direction so i can
+
+change the you know change the
+
+appearance and the symbology of
+
+everything and
+
+these will these will pop up so if i
+
+click on map right here my feature layer
+
+will
+
+disappear because it's not going to be
+
+applicable here
+
+but we have a couple of different
+
+applications here this is one
+
+and uh this is arcmap which is it was
+
+basically being depreciated deprecated
+
+and so i have a couple of maps right
+
+here this is a cluster map that i've
+
+shown before
+
+but i can run things like queries and so
+
+i can go to something like selection by
+
+attributes or i can look for
+
+selection by location i want to find all
+
+the zip codes
+
+in this particular area so i can look
+
+for all the counties
+
+in this case maybe i can look for all
+
+the zip codes
+
+where the covert rate is
+
+greater than 400
+
+and i can click apply
+
+and now we can look for the covert rates
+
+where they're extremely high or
+
+extremely low
+
+okay so we can run some of these queries
+
+here
+
+and i can open up the attribute table
+
+here as well
+
+and you can see the attributes attached
+
+to these and i can run things like
+
+statistics so i can right mouse click
+
+summarize
+
+in statistics i can look at is it in a
+
+usda
+
+food desert what is the total population
+
+you can see some of the data that i've
+
+been collecting as a result of this
+
+i can see the the covered rates right
+
+here so i can sort the covert rates from
+
+highest to lowest i can do sort as
+
+sending sort descending
+
+so i can see oh here's some covert rates
+
+that are 819
+
+all the way down to some data which i
+
+don't have i can look for associations
+
+between
+
+my diabetes rates at the zip code level
+
+covered rates for 930 so i can do some
+
+things like
+
+change detection look at you know
+
+poverty rates percent minority
+
+green space other things that we've been
+
+looking at and trying to associate with
+
+these
+
+so in conclusion this is an example of
+
+some of my gis data that i have out
+
+there
+
+and like i said before we can run our
+
+geospatial statistics where i
+
+i can group whether it's you know income
+
+or race or in this case diabetes
+
+in this case covert rates with these so
+
+i hope this is a good and
+
+comprehensive good and good introduction
+
+to gis and how it can be
+
+used and applied to
+
+public health and please let me know if
+
+you have any questions
+
