@@ -1,0 +1,15 @@
+<PAMDataset>
+  <SRS dataAxisToSRSAxisMapping="2,1,3">PROJCS["Monte_Mario_Rome_Italy_1",GEOGCS["GCS_Monte_Mario_Rome",DATUM["Monte_Mario",SPHEROID["International_1924",6378388.0,297.0,AUTHORITY["EPSG","7022"]],AUTHORITY["EPSG","6265"]],PRIMEM["Rome",12.45233333333333,AUTHORITY["EPSG","8906"]],UNIT["Degree",0.0174532925199433,AUTHORITY["EPSG","9102"]],AUTHORITY["EPSG","4806"]],PROJECTION["Transverse_Mercator",AUTHORITY["Esri","43006"]],PARAMETER["False_Easting",1500000.0,AUTHORITY["Esri","100001"]],PARAMETER["False_Northing",0.0,AUTHORITY["Esri","100002"]],PARAMETER["Central_Meridian",-3.45233333,AUTHORITY["Esri","100010"]],PARAMETER["Scale_Factor",0.9996,AUTHORITY["Esri","100003"]],PARAMETER["Latitude_Of_Origin",0.0,AUTHORITY["Esri","100021"]],UNIT["Meter",1.0,AUTHORITY["EPSG","9001"]],AUTHORITY["EPSG","26591"]]</SRS>
+  <PAMRasterBand band="1">
+    <Description>Loc_All_r</Description>
+    <NoDataValue>-2.14748364800000E+09</NoDataValue>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="PIXELTYPE">SIGNEDBYTE</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

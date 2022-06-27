@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220429</CreaDate><CreaTime>05143500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20220429" Time="051435">Reclassify m_river_b_ra VALUE "100 1;150 2;200 3;250 4" "C:\Users\rahul\Desktop\GIS\69\Assessment 2\Output_Data\Reclassified\re_m_river" DATA</Process></lineage></DataProperties></Esri></metadata>

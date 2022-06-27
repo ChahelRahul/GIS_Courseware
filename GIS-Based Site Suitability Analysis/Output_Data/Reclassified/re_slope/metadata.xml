@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220429</CreaDate><CreaTime>04214300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20220429" Time="042143">Reclassify Slope Value "0 20 1;20 30 2;30 40 3;40 71.231255 4" "C:\Users\rahul\Desktop\GIS\69\Assessment 2\Output_Data\Reclassified\re_slope" DATA</Process></lineage></DataProperties></Esri></metadata>
