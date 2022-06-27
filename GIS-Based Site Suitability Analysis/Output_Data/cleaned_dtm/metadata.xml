@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220428</CreaDate><CreaTime>21260200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\TinRaster" Date="20220428" Time="212602">TinRaster TIN "C:\Users\rahul\Desktop\GIS\69\Assessment 2\Output_Data\Cleaned_DTM" FLOAT LINEAR "CELLSIZE 30" 1</Process></lineage></DataProperties></Esri></metadata>
